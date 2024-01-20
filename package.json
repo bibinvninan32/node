@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "1.0.0",
+  "version": "18.18.2",
   "description": "nodejs-testapp",
   "main": "app.js",
   "scripts": {
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {}
 }
